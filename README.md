@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# for my project you can do following steps to run and see the working of my project.
+
+# Healthcare Dashboard - React Implementation
+
+## Features
+- Responsive form for Name, Age, and File Upload.
+- Stylish UI using Material-UI.
+- Loading spinner during submission.
+
+## How to Run
+1. Navigate to the project folder:
+   ```bash
+   cd healthcare-dashboard
+2. Install dependencies:
+    npm install
+3. Start the development server:
+    npm start
+4. Open http://localhost:3000 in your browser.
+
+- Age input has been implemented as a dropdown menu with values ranging from 1 to 100.
